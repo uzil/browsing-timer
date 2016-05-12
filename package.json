@@ -1,0 +1,16 @@
+{
+  "title": "Browsing Timer",
+  "name": "browsingtimer",
+  "version": "0.0.3",
+  "description": "An addon for reminding you your time is up after a certain period of time user spcifies. It best tackles the problem of wasteful hours and hours long time of web browsing.",
+  "main": "index.js",
+  "author": "Ujjwal(uzil)",
+  "engines": {
+    "firefox": ">=38.0a1",
+    "fennec": ">=38.0a1"
+  },
+  "license": "MIT",
+  "keywords": [
+    "jetpack"
+  ]
+}
